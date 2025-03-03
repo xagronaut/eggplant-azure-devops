@@ -12,7 +12,7 @@ Eggplant Runner currently provides "Run Test Config" as its main action.
 ## Using run-test-config.yml in your pipeline
 
 In order to use the Eggplant Runner with Azure DevOps, you need to add this to your Azure Pipelines .yml file:<br />
-Reading: https://docs.microsoft.com/en-us/azure/devops/pipelines/process/templates?view=azure-devops#use-other-repositories
+Reading: https://docs.microsoft.com/en-us/azure/devops/pipelines/process/templates?view=azure-devops#store-templates-in-other-repositories
 
 ```yaml
 trigger:
